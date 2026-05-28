@@ -4,6 +4,10 @@ A real-time colour-to-sound synthesizer that turns your camera into a musical in
 
 Built for **DT2213 DT2213 Musical Communication and Music Technology** at KTH Royal Institute of Technology.
 
+
+## Demo Video
+
+[![Watch Demo](https://youtu.be/CG5qci6kjo8.jpg)](https://youtu.be/CG5qci6kjo8)
 ---
 
 ## How It Works
